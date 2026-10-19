@@ -1,13 +1,3 @@
-<div align="center">
-
-# Zuujis
-
-[![Website](https://img.shields.io/badge/zuujis.com-0f2027?style=for-the-badge&logo=safari&logoColor=white)](https://zuujis.com)
-
-</div>
-
----
-
 ## 👋 About me
 
 I build software of all kinds — websites, native macOS apps, game servers and games. I like things that are clean, fast and made with care.
