@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Zuujis&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20tools%20from%20scratch%20%E2%80%94%20mostly%20in%20Rust&descAlignY=60&descSize=18" alt="Zuujis banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Zuujis&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20software%20from%20the%20ground%20up&descAlignY=60&descSize=18" alt="Zuujis banner" width="100%" />
 
 [![Website](https://img.shields.io/badge/zuujis.com-0f2027?style=for-the-badge&logo=safari&logoColor=white)](https://zuujis.com)
 [![Followers](https://img.shields.io/github/followers/zuujiscom?style=for-the-badge&logo=github&color=2c5364)](https://github.com/zuujiscom?tab=followers)
@@ -14,13 +14,16 @@
 
 I build software from the ground up — editors, spreadsheets, audio tools, games and the servers that run them. I like clean-room implementations, small dependency trees and things that feel fast.
 
-- 🦀 Most of my time goes into **Rust**
+- 🦀 Recently diving into **Rust** — it's a newer part of my toolbox
 - 🎨 Building the **Craft** family of open-source desktop apps
 - 🍎 Writing native **macOS** utilities in Swift and C
 - 🎮 Tinkering with game servers and game dev on the side
+- 🔒 Most of what I build is **private** — only a small selection is public
 - 🌐 Say hi at **[zuujis.com](https://zuujis.com)**
 
 ## 🚀 Featured projects
+
+> Only a small amount of my work is public. Here's a peek at what is.
 
 <table>
   <tr>
@@ -73,17 +76,6 @@ I build software from the ground up — editors, spreadsheets, audio tools, game
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-## 📈 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zuujiscom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuujiscom&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuujiscom&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
-</div>
 
 ## 🤝 Let's connect
 
