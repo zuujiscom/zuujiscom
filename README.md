@@ -1,12 +1,8 @@
 <div align="center">
 
 <a href="https://zuujis.com">
-  <img src="https://zuujis.com/background-image1-v2.webp" alt="Zuujis" width="100%" />
+  <img src="https://zuujis.com/og/site.jpg" alt="Zuujis" width="100%" />
 </a>
-
-# Zuujis
-
-**What if the world could be better?**
 
 [![Website](https://img.shields.io/badge/zuujis.com-0f2027?style=for-the-badge&logo=safari&logoColor=white)](https://zuujis.com)
 
