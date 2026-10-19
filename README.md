@@ -41,11 +41,3 @@ I build software of all kinds — websites, native macOS apps, game servers and 
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-## 🤝 Let's connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-zuujis.com-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zuujis.com)
-
-</div>
