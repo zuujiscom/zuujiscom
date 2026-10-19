@@ -8,6 +8,16 @@ I build software of all kinds — websites, native macOS apps, game servers and 
 - 🦀 Recently picking up **Rust**
 - 🔒 Most of what I build is **private** — only a small selection is public
 
+## 🌐 Websites
+
+| Site | What it is |
+|------|------------|
+| [**zuujis.com**](https://zuujis.com) | A place to share visions for a better world |
+| [**games.zuujis.com**](https://games.zuujis.com) | Free browser games |
+| [**play.zuujis.com**](https://play.zuujis.com) | A multiplayer 3D world in your browser |
+| [**citybuilder.zuujis.com**](https://citybuilder.zuujis.com) | War Games — build a city, raise an army, take the world |
+| [**tarot.zuujis.com**](https://tarot.zuujis.com) | Tarot readings, card meanings and spreads |
+
 ## 🚀 Public projects
 
 <table>
