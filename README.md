@@ -10,8 +10,6 @@ I build software of all kinds — websites, native macOS apps, game servers and 
 
 ## 🚀 Public projects
 
-> Only a small amount of my work is public. Here's a peek at what is.
-
 <table>
   <tr>
     <td width="50%" valign="top">
