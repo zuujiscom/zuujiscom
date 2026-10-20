@@ -17,6 +17,10 @@ I build software of all kinds — websites, native macOS apps, game servers and 
 | [**play.zuujis.com**](https://play.zuujis.com) | A multiplayer 3D world in your browser |
 | [**citybuilder.zuujis.com**](https://citybuilder.zuujis.com) | War Games — build a city, raise an army, take the world |
 | [**tarot.zuujis.com**](https://tarot.zuujis.com) | Tarot readings, card meanings and spreads |
+| [**wow.zuujis.com**](https://wow.zuujis.com) | A free World of Warcraft 3.3.5a (Wrath of the Lich King) realm with playerbots |
+| [**machine.zuujis.com**](https://machine.zuujis.com) | Machine Guardian — protect Earth from all threats |
+| [**gev.zuujis.com**](https://gev.zuujis.com) | God's Eye View — a live 3D view of the world |
+| [**craft.zuujis.com**](https://craft.zuujis.com) | Open-source creative apps from ArtCraft, running in your browser |
 
 ## 🚀 Public projects
 
